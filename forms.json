@@ -1,10 +1,10 @@
 {
   "Forms": [
-    "x= \frac{-b \\pm\\sqrt{b^2 - 4ac}}{2a}",
-    "x = \frac{-b \\pm \\sqrt{b^2 - 4c}}{2}",
+    "x = \frac{ -b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+    "x = \frac{ -b \\pm \\sqrt{b^2 - 4c}}{2}",
     "D = b^2 - 4ac",
-    "x = \\frac{-b \\pm \\sqrt{D}}{2a}",
-    "p= \\frac{b}{2} // x = -p \\pm \\sqrt{p^2 - c}"
+    "x = \\frac{ -b \\pm \\sqrt{D}}{2a}",
+    "p = \\frac{b}{2} \\\\ x = -p \\pm \\sqrt{p^2 - c}"
   ],
   "Description": [
     "Basic forms",
