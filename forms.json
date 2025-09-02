@@ -30,5 +30,12 @@
     ["m \\sqrt{a} - n \\sqrt{a} = (m-n)\\sqrt{a}", "Subtraction of roots"],
     ["\\sqrt{a} \\times \\sqrt{a} = a", "Multiplication of roots"],
     ["\\dfrac{\\sqrt{a}}{\\sqrt{b}} = \\sqrt{\\dfrac{a}{b}}", "Division of roots"]
+  ],
+  "Polinomial":[
+    ["x^2 + 2x + 1", "Contoh persamaan kuadrat sederhana"],
+    ["\\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}", "Rumus ABC untuk mencari akar persamaan kuadrat"],
+    ["\\int x^2 \\, dx", "Integral tak tentu dari x^2"],
+    ["\\sum_{i=1}^n i", "Penjumlahan dari 1 sampai n"],
+    ["P(x) = 2x^3 - 4x^2 + 3x - 5", "Contoh polinomial derajat 3"]
   ]
 }
