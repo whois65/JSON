@@ -1,16 +1,34 @@
 {
   "Forms": [
-    "x = \\frac{ -b \\pm \\sqrt{b^2 - 4ac}}{2a}",
-    "x = \\frac{ -b \\pm \\sqrt{b^2 - 4c}}{2}",
-    "D = b^2 - 4ac",
-    "x = \\frac{ -b \\pm \\sqrt{D}}{2a}",
-    "p = \\frac{b}{2} \\\\ x = -p \\pm \\sqrt{p^2 - c}"
+    ["x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}", "Quadratic formula"],
+    ["x = \\frac{-b \\pm \\sqrt{b^2 - 4c}}{2}", "If x = 1"],
+    ["D = b^2 - 4ac", "Discriminant"],
+    ["x = \\frac{-b \\pm \\sqrt{D}}{2a}", "Using discriminant"],
+    ["p = \\frac{b}{2} \\\\ x = -p \\pm \\sqrt{p^2 - c}", "If b is even number"],
+    ["a \\frac{b}{c} = \\frac{ac+b}{c}", "Mixed fraction"]
   ],
-  "Description": [
-    "Basic forms",
-    "If x = 1",
-    "Discriminant",
-    "if use discriminant",
-    "if b is even number"
+
+  "ExponentAndRoot": [
+    ["a^m \\times a^n = a^{m+n}", "Multiplication of powers"],
+    ["\\dfrac{a^m}{a^n} = a^{m-n}", "Division of powers"],
+    ["(a^m)^n = a^{m \\times n}", "Power of a power"],
+    ["a^{\\tfrac{m}{n}} = \\sqrt[n]{a^m}", "Fractional exponent"],
+    ["a^{-b} = \\dfrac{1}{a^b}", "Negative exponent"],
+    ["a^{-1} = \\dfrac{1}{a}", "Inverse"],
+    ["a = \\sqrt{b} \\iff a^2 = b", "Square root property"]
+  ],
+
+  "Fractions": [
+    ["\\dfrac{a}{b} + \\dfrac{c}{d} = \\dfrac{ad + bc}{bd}", "Addition"],
+    ["\\dfrac{a}{b} - \\dfrac{c}{d} = \\dfrac{ad - bc}{bd}", "Subtraction"],
+    ["\\dfrac{a}{b} \\times \\dfrac{c}{d} = \\dfrac{ac}{bd}", "Multiplication"],
+    ["\\dfrac{a}{b} \\div \\dfrac{c}{d} = \\dfrac{ad}{bc}", "Division"]
+  ],
+
+  "Root": [
+    ["m \\sqrt{a} + n \\sqrt{a} = (m+n)\\sqrt{a}", "Addition of roots"],
+    ["m \\sqrt{a} - n \\sqrt{a} = (m-n)\\sqrt{a}", "Subtraction of roots"],
+    ["\\sqrt{a} \\times \\sqrt{a} = a", "Multiplication of roots"],
+    ["\\dfrac{\\sqrt{a}}{\\sqrt{b}} = \\sqrt{\\dfrac{a}{b}}", "Division of roots"]
   ]
 }
