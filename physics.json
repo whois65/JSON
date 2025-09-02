@@ -1,0 +1,82 @@
+{
+  "Linear Motion": [
+    ["v = \\frac{s}{t}", "Velocity equals distance divided by time."],
+    ["a = \\frac{\\Delta v}{\\Delta t}", "Acceleration equals change in velocity over time."],
+    ["v_t = v_0 + a t", "Final velocity equals initial velocity plus acceleration times time."],
+    ["s = v_0 t + \\frac{1}{2} a t^2", "Displacement equals initial velocity times time plus half acceleration times time squared."],
+    ["v^2 = v_0^2 + 2 a s", "Final velocity squared equals initial velocity squared plus two times acceleration times displacement."],
+    ["v_{avg} = \\frac{s_{total}}{t_{total}}", "Average velocity equals total displacement divided by total time."]
+  ],
+  "Newton's Laws & Forces": [
+    ["F = m \\cdot a", "Force equals mass times acceleration."],
+    ["W = m \\cdot g", "Weight equals mass times gravitational acceleration."],
+    ["P = \\frac{F}{A}", "Pressure equals force divided by area."],
+    ["P = \\rho g h", "Fluid pressure equals density times gravity times height."]
+  ],
+  "Work, Energy & Power": [
+    ["W = F \\cdot s \\cdot \\cos\\theta", "Work equals force times displacement times cosine of angle."],
+    ["E_k = \\frac{1}{2} m v^2", "Kinetic energy equals half mass times velocity squared."],
+    ["E_p = m g h", "Potential energy equals mass times gravity times height."],
+    ["P = \\frac{W}{t}", "Power equals work divided by time."],
+    ["E_m = E_k + E_p", "Mechanical energy equals kinetic energy plus potential energy."]
+  ],
+  "Simple Machines": [
+    ["F_1 L_1 = F_2 L_2", "Lever principle: force times lever arm equals output force times output arm."],
+    ["W = F \\cdot n", "Work equals force times number of pulley rotations."]
+  ],
+  "Oscillations & Waves": [
+    ["T = 2\\pi \\sqrt{\\frac{m}{k}}", "Period of spring oscillation equals 2π times square root of mass over spring constant."],
+    ["T = 2\\pi \\sqrt{\\frac{l}{g}}", "Period of pendulum equals 2π times square root of length over gravity."],
+    ["v = \\lambda \\cdot f", "Wave speed equals wavelength times frequency."]
+  ],
+  "Basic Electricity": [
+    ["V = I \\cdot R", "Ohm's law: voltage equals current times resistance."],
+    ["E = V \\cdot I \\cdot t", "Electric energy equals voltage times current times time."],
+    ["P = V \\cdot I", "Electric power equals voltage times current."]
+  ],
+  "Circular Motion": [
+    ["\\omega = \\frac{\\theta}{t}", "Angular velocity equals angle divided by time."],
+    ["v = \\omega r", "Linear velocity equals angular velocity times radius."],
+    ["a_s = \\frac{v^2}{r} = \\omega^2 r", "Centripetal acceleration equals velocity squared over radius."],
+    ["F_s = m a_s", "Centripetal force equals mass times centripetal acceleration."]
+  ],
+  "Gravitation": [
+    ["F = G \\frac{m_1 m_2}{r^2}", "Gravitational force equals G times product of masses over distance squared."],
+    ["V = -G \\frac{m}{r}", "Gravitational potential equals negative G times mass over radius."],
+    ["E_p = -G \\frac{m_1 m_2}{r}", "Gravitational potential energy equals negative G times product of masses over distance."]
+  ],
+  "Momentum & Impulse": [
+    ["p = m v", "Momentum equals mass times velocity."],
+    ["I = F \\cdot \\Delta t = \\Delta p", "Impulse equals force times time, equal to change in momentum."],
+    ["m_1 v_1 + m_2 v_2 = m_1 v'_1 + m_2 v'_2", "Conservation of momentum in collisions."]
+  ],
+  "Fluid Mechanics": [
+    ["P = \\rho g h", "Fluid pressure equals density times gravity times depth."],
+    ["F_A = \\rho g V", "Buoyant force equals density times gravity times displaced volume."],
+    ["A_1 v_1 = A_2 v_2", "Continuity equation: area times velocity is constant."],
+    ["P + \\frac{1}{2}\\rho v^2 + \\rho g h = \\text{constant}", "Bernoulli's equation: total fluid energy remains constant."]
+  ],
+  "Thermodynamics": [
+    ["Q = m c \\Delta T", "Heat equals mass times specific heat times temperature change."],
+    ["Q_{lost} = Q_{gained}", "Heat lost equals heat gained."],
+    ["W = P \\Delta V", "Work done equals pressure times volume change."],
+    ["\\Delta U = Q - W", "Change in internal energy equals heat minus work."]
+  ],
+  "Waves, Sound & Light": [
+    ["v = \\lambda f", "Wave speed equals wavelength times frequency."],
+    ["f' = f \\frac{v \\pm v_p}{v \\mp v_s}", "Doppler effect: observed frequency changes with motion of source or observer."],
+    ["n_1 \\sin\\theta_1 = n_2 \\sin\\theta_2", "Snell's law: refraction of light between media."],
+    ["P = \\frac{1}{f}", "Period equals reciprocal of frequency."]
+  ],
+  "Electricity & Magnetism": [
+    ["V = I R", "Ohm's law: voltage equals current times resistance."],
+    ["R_s = R_1 + R_2 + ...", "Total resistance in series equals sum of resistances."],
+    ["\\frac{1}{R_p} = \\frac{1}{R_1} + \\frac{1}{R_2} + ...", "Total resistance in parallel equals reciprocal sum."],
+    ["B = \\frac{\\mu_0 I}{2\\pi r}", "Magnetic field around a long straight wire."],
+    ["F = q v B \\sin\\theta", "Lorentz force equals charge times velocity times magnetic field times sine of angle."]
+  ],
+  "Modern Physics": [
+    ["E_k = h f - W", "Photoelectric effect: kinetic energy equals photon energy minus work function."],
+    ["E = m c^2", "Einstein's mass-energy equivalence."]
+  ]
+}
