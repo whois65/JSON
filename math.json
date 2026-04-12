@@ -1,10 +1,39 @@
 {
-  "Forms": [
+  "Algebra": [
     ["x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}", "Quadratic formula"],
     ["x = \\frac{-b \\pm \\sqrt{b^2 - 4c}}{2}", "If x = 1"],
     ["D = b^2 - 4ac", "Discriminant"],
     ["x = \\frac{-b \\pm \\sqrt{D}}{2a}", "Using discriminant"],
-    ["p = \\frac{b}{2} \\\\ x = -p \\pm \\sqrt{p^2 - c}", "If b is an even number"]
+    ["p = \\frac{b}{2} \\\\ x = -p \\pm \\sqrt{p^2 - c}", "If b is an even number"],
+  ["(a-b)^2 = a^2 - 2ab + b^2", "Binomial square (negative)"],
+  ["a^2 - b^2 = (a-b)(a+b)", "Difference of squares"],
+  ["(a+b)^3 = a^3 + 3a^2b + 3ab^2 + b^3", "Binomial cube"],
+  ["(a-b)^3 = a^3 - 3a^2b + 3ab^2 - b^3", "Binomial cube (negative)"],
+    ["ax + bx + cx = x(a+b+c)", "Factoring out x"],
+    ["x^2 + 2x + 1 = (x+1)^2", "Perfect square"],
+    ["\\sum_{i=1}^n i = \\frac{n(n+1)}{2}", "Summation formula"],
+    ["P(x) = 2x^3 - 4x^2 + 3x - 5", "Example of a cubic polynomial"],
+    ["(a+b)^2 = (a+b)(a+b) = a^2+2ab+b^2", "Square of a binomial"],
+    ["(a+b)^3 = (a+b)(a+b)(a+b) = a^3 + 3a^2b + 3ab^2 + b^3", "Cube of a binomial"]
+],
+  "Sequences": [
+  ["a_n = a_1 + (n-1)d", "Arithmetic sequence nth term"],
+  ["S_n = \\frac{n}{2}(a_1 + a_n)", "Arithmetic series sum"],
+  ["a_n = a_1 r^{n-1}", "Geometric sequence nth term"],
+  ["S_n = a_1 \\frac{1 - r^n}{1 - r}", "Geometric series sum"],
+  ["S_\\infty = \\frac{a_1}{1 - r}", "Infinite geometric series (|r| < 1)"]
+  ],
+  "Trigonometry": [
+  ["\\sin^2 x + \\cos^2 x = 1", "Pythagorean identity"],
+  ["\\tan x = \\frac{\\sin x}{\\cos x}", "Tangent definition"],
+  ["\\sin(A+B) = \\sin A \\cos B + \\cos A \\sin B", "Sine addition formula"],
+  ["\\cos(A+B) = \\cos A \\cos B - \\sin A \\sin B", "Cosine addition formula"],
+  ["\\tan(A+B) = \\frac{\\tan A + \\tan B}{1 - \\tan A \\tan B}", "Tangent addition formula"],
+  ["\\sin 2x = 2 \\sin x \\cos x", "Double angle"],
+  ["\\cos 2x = \\cos^2 x - \\sin^2 x", "Double angle"],
+    ["1 + \\tan^2 x = \\sec^2 x", "Pythagorean identity (tan)"],
+["\\sin(-x) = -\\sin x", "Odd function"],
+["\\cos(-x) = \\cos x", "Even function"]
   ],
 
   "ExponentAndRoot": [
@@ -30,17 +59,6 @@
     ["m \\sqrt{a} - n \\sqrt{a} = (m-n)\\sqrt{a}", "Subtraction of radicals"],
     ["\\sqrt{a} \\times \\sqrt{a} = a", "Multiplication of radicals"],
     ["\\dfrac{\\sqrt{a}}{\\sqrt{b}} = \\sqrt{\\dfrac{a}{b}}", "Division of radicals"]
-  ],
-
-  "Polinomial": [
-    ["ax + bx + cx = x(a+b+c)", "Factoring out x"],
-    ["x^2 + 2x + 1", "Example of a simple quadratic equation"],
-    ["\\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}", "Quadratic formula (ABC formula)"],
-    ["\\int x^2 \\, dx", "Indefinite integral of x^2"],
-    ["\\sum_{i=1}^n i", "Summation from 1 to n"],
-    ["P(x) = 2x^3 - 4x^2 + 3x - 5", "Example of a cubic polynomial"],
-    ["(a+b)^2 = (a+b)(a+b) = a^2+2ab+b^2", "Square of a binomial"],
-    ["(a+b)^3 = (a+b)(a+b)(a+b) = a^3 + 2a^2b + 2ab^2+b^3", "Cube of a binomial"]
   ],
 
   "Logarithm": [
@@ -75,6 +93,23 @@
     ["SA = 6s^2", "Surface area of a cube"],
     ["SA = 2\\pi r(h + r)", "Surface area of a cylinder"],
     ["SA = 4\\pi r^2", "Surface area of a sphere"],
-    ["c^2 = a^2 + b^2", "Pythagorean theorem"]
+    ["c^2 = a^2 + b^2", "Pythagorean theorem"],
+    ["d = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}", "Distance formula"],
+["m = \\frac{y_2 - y_1}{x_2 - x_1}", "Slope formula"]
+  ],
+  "Probability": [
+  ["P(A) = \\frac{\\text{favorable outcomes}}{\\text{total outcomes}}", "Basic probability"],
+  ["P(A \\cap B) = P(A)P(B)", "Independent events"],
+  ["P(A \\cup B) = P(A) + P(B) - P(A \\cap B)", "Union of events"],
+  ["\\mu = \\frac{\\sum x}{n}", "Mean"],
+  ["\\sigma^2 = \\frac{\\sum (x - \\mu)^2}{n}", "Variance"]
+  ],
+  "Calculus": [
+  ["\\frac{d}{dx}(x^n) = nx^{n-1}", "Power rule"],
+  ["\\frac{d}{dx}(\\sin x) = \\cos x", "Derivative of sine"],
+  ["\\frac{d}{dx}(\\cos x) = -\\sin x", "Derivative of cosine"],
+  ["\\int x^n \\, dx = \\frac{x^{n+1}}{n+1} + C", "Basic integral"],
+  ["\\int \\frac{1}{x} \\, dx = \\ln|x| + C", "Log integral"],
+  ["\\int x^2 \\, dx = \\frac{x^3}{3} + C", "Indefinite integral of x^2"]
   ]
 }
