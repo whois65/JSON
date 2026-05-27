@@ -1,3 +1,3 @@
 # JSON
 
-This is a repositories for deploy my json datas.
+This is a repositories to deploys my json datas.
