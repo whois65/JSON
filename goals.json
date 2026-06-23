@@ -1,0 +1,884 @@
+{
+    "version": 2,
+    "data": [
+        {
+            "icon": "ti-math-symbols",
+            "title": "Mathematics",
+            "notes": "",
+            "tasks": [
+                {
+                    "t": "Basic Algebra",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "Quadratic Equation",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "Function and Graph",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "Trigonometry",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "Sequence and Series",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "Combinatorics",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "Probability",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "Vectors",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "Limits",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "Differentiation",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "Integration",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "MEXT Mathematics Past Papers",
+                    "done": false,
+                    "priority": "high",
+                    "deadline": ""
+                }
+            ]
+        },
+        {
+            "icon": "ti-atom",
+            "title": "Physics",
+            "notes": "",
+            "tasks": [
+                {
+                    "t": "Kinematics",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "Newton Laws",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "Work and Energy",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "Momentum",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "Circular Motion",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "Fluid Mechanics",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "Waves",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "Thermodynamics",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "Electricity",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "Magnetism",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "Optics",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                }
+            ]
+        },
+        {
+            "icon": "ti-flask-2",
+            "title": "Chemistry",
+            "notes": "",
+            "tasks": [
+                {
+                    "t": "Stoichiometry",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "Acid and Base",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "pH Calculation",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "Hydrolysis",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "Chemical Equilibrium",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "Redox Reaction",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "Electrochemistry",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "Organic Chemistry",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                }
+            ]
+        },
+        {
+            "icon": "ti-world",
+            "title": "English",
+            "notes": "",
+            "tasks": [
+                {
+                    "t": "Grammar",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "Reading",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "Listening",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "Speaking",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "Writing",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "TOEFL Vocabulary",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "Weekly TOEFL Writing Practice",
+                    "done": false,
+                    "priority": "medium",
+                    "deadline": ""
+                },
+                {
+                    "t": "TOEFL 90+",
+                    "done": false,
+                    "priority": "high",
+                    "deadline": ""
+                }
+            ]
+        },
+        {
+            "icon": "ti-language-hiragana",
+            "title": "Japanese",
+            "notes": "",
+            "tasks": [
+                {
+                    "t": "JLPT N5 Review",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "JLPT N4 Grammar",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "JLPT N3 Grammar",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "Kanji 500+",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "Listening Practice",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "Reading Practice",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "Conversation Practice",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "Pass JLPT N3",
+                    "done": false,
+                    "priority": "high",
+                    "deadline": ""
+                }
+            ]
+        },
+        {
+            "icon": "ti-language",
+            "title": "Mandarin",
+            "notes": "",
+            "tasks": [
+                {
+                    "t": "HSK1",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "HSK2",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "HSK3",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "HSK4",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "Listening Practice",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "Speaking Practice",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "Reading Practice",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                }
+            ]
+        },
+        {
+            "icon": "ti-brand-cpp",
+            "title": "C++",
+            "notes": "",
+            "tasks": [
+                {
+                    "t": "Array",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "Vector",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "Set",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "Map",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "Pointer",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "Recursion",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "Linked List",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "Stack",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "Queue",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "Tree",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "Graph",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "Dynamic Programming",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                }
+            ]
+        },
+        {
+            "icon": "ti-code-dots",
+            "title": "Competitive Programming",
+            "notes": "",
+            "tasks": [
+                {
+                    "t": "100 Problems",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "200 Problems",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "300 Problems",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "Binary Search",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "Greedy",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "Prefix Sum",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "Two Pointer",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "Graph Algorithms",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "Dynamic Programming",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "Join Competition",
+                    "done": false,
+                    "priority": "high",
+                    "deadline": ""
+                }
+            ]
+        },
+        {
+            "icon": "ti-brand-python",
+            "title": "Python",
+            "notes": "",
+            "tasks": [
+                {
+                    "t": "Dictionary",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "OOP",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "File Handling",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "Modules",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "Numpy",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "Pandas",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "Matplotlib",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                }
+            ]
+        },
+        {
+            "icon": "ti-terminal",
+            "title": "Linux",
+            "notes": "",
+            "tasks": [
+                {
+                    "t": "Basic Commands",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "File System",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "Permissions",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "Pipes and Redirection",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "Vim",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "Bash Scripting",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "Cron Jobs",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                }
+            ]
+        },
+        {
+            "icon": "ti-brain",
+            "title": "Machine Learning",
+            "notes": "",
+            "tasks": [
+                {
+                    "t": "Linear Algebra",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "Statistics",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "Numpy",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "Pandas",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "Matplotlib",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "Scikit-learn",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "Regression",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "Classification",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "Neural Network",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "Mini Project",
+                    "done": false,
+                    "priority": "high",
+                    "deadline": ""
+                }
+            ]
+        },
+        {
+            "icon": "ti-world-www",
+            "title": "Web Development",
+            "notes": "",
+            "tasks": [
+                {
+                    "t": "HTML",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "CSS",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "JavaScript",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "Responsive Design",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "Dark Mode",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "Search Feature",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "Login/Register",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "Optimization",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                }
+            ]
+        },
+        {
+            "icon": "ti-file-cv",
+            "title": "Portfolio",
+            "notes": "",
+            "tasks": [
+                {
+                    "t": "GitHub",
+                    "done": false,
+                    "priority": "high",
+                    "deadline": ""
+                },
+                {
+                    "t": "LeetCode",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "Personal Website",
+                    "done": false,
+                    "priority": "medium",
+                    "deadline": ""
+                },
+                {
+                    "t": "Tech Blog",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "Offline Web App",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "AI Project",
+                    "done": false,
+                    "priority": "medium",
+                    "deadline": ""
+                },
+                {
+                    "t": "Open Source Contribution",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "Competitive Programming Profile",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                }
+            ]
+        },
+        {
+            "icon": "ti-school",
+            "title": "MEXT Preparation",
+            "notes": "",
+            "tasks": [
+                {
+                    "t": "Mathematics",
+                    "done": false,
+                    "priority": "high",
+                    "deadline": ""
+                },
+                {
+                    "t": "English",
+                    "done": false,
+                    "priority": "high",
+                    "deadline": ""
+                },
+                {
+                    "t": "Physics",
+                    "done": false,
+                    "priority": "high",
+                    "deadline": ""
+                },
+                {
+                    "t": "Past Papers",
+                    "done": false,
+                    "priority": "high",
+                    "deadline": ""
+                },
+                {
+                    "t": "Research Universities",
+                    "done": false,
+                    "priority": "medium",
+                    "deadline": ""
+                },
+                {
+                    "t": "Prepare Documents",
+                    "done": false,
+                    "priority": "medium",
+                    "deadline": ""
+                },
+                {
+                    "t": "Interview Preparation",
+                    "done": false,
+                    "priority": "medium",
+                    "deadline": ""
+                }
+            ]
+        },
+        {
+            "icon": "ti-school",
+            "title": "China University",
+            "notes": "",
+            "tasks": [
+                {
+                    "t": "HSK4",
+                    "done": false,
+                    "priority": "high",
+                    "deadline": ""
+                },
+                {
+                    "t": "Portfolio",
+                    "done": false,
+                    "priority": "medium",
+                    "deadline": ""
+                },
+                {
+                    "t": "Research Universities",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "Prepare Documents",
+                    "done": false,
+                    "priority": "",
+                    "deadline": ""
+                },
+                {
+                    "t": "Apply to Tsinghua",
+                    "done": false,
+                    "priority": "high",
+                    "deadline": ""
+                }
+            ]
+        },
+        {
+            "icon": "ti-atom",
+            "title": "ssss",
+            "notes": "",
+            "tasks": []
+        }
+    ]
+}
